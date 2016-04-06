@@ -2,7 +2,7 @@
     "plugins": [
         {
             "repo": "regional-planning",
-            "name": "regional_planning"
+            "name": "regional-planning"
         },
         {
             "repo": "multiSelect",
