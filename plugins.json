@@ -2,11 +2,13 @@
     "plugins": [
         {
             "repo": "regional-planning",
-            "name": "regional-planning"
+            "name": "regional-planning",
+            "ver": "origin/develop"
         },
         {
             "repo": "regional-planning",
-            "name": "second-planning"
+            "name": "second-planning",
+            "ver": "origin/develop"
         }
     ]
 }
