@@ -197,5 +197,20 @@
         "includeLayers": [
             { "name": "Inundation Depth " }
         ]
+    },
+    {
+        "name": "St Vincent and the Grenadines",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/GSVG",
+            "name": "GSVG"
+        },
+        "includeLayers": [
+             {
+                 "name": "St Vincent and the Grenadines",
+                 "includeAllLayers": true
+             }
+        ]
     }
 ]
