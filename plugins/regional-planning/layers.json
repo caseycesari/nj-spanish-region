@@ -1,6 +1,7 @@
 [
     {
         "displayName": "Coastal Resilience (NJ)",
+        "description": "Test description",
         "server": {
             "type": "ags",
             "layerType": "dynamic",
