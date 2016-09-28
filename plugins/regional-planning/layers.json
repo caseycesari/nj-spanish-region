@@ -200,21 +200,6 @@
         ]
     },
     {
-        "name": "St Vincent and the Grenadines",
-        "server": {
-            "type": "ags",
-            "layerType": "dynamic",
-            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/GSVG",
-            "name": "GSVG"
-        },
-        "includeLayers": [
-             {
-                 "name": "Grenada",
-                 "includeAllLayers": true
-             }
-        ]
-    },
-    {
         "name": "Grenada",
         "server": {
             "type": "ags",
