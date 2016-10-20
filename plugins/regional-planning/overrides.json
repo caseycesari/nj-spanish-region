@@ -1,6 +1,5 @@
 {
-    "height": 500,
-    "width": 400,
-    "resizable": false,
+    "size": "custom",
+    "width": 654,
     "hasCustomPrint": true
 }
