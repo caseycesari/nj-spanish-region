@@ -102,7 +102,7 @@
     },
     "colors": {
         "primary": "#26648E",
-        "secondary": "#26648E",
+        "secondary": "#3bb3be",
         "tertiary": "#333333"
     },
     "identifyBlacklist": [
