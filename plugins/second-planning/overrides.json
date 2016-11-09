@@ -1,4 +1,6 @@
 {
     "name": "More Planning",
-    "description": "Like regional planning, but additional"
+    "description": "Like regional planning, but additional",
+    "size": "custom",
+    "width": 654
 }
