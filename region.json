@@ -1,6 +1,10 @@
 {
     "language": "es",
     "googleAnalyticsPropertyId": "7401895-14",
+    "singlePluginMode": {
+	"active": true,
+	"pluginFolderName": "regional-planning"
+    },
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
     "titleMain": { "text": "La Resiliencia Costera", "url": "http://coastalresilience.org/" },
     "titleDetail": { "text": "New Jersey", "url": "http://coastalresilience.org/project-areas/new-jersey-introduction" },
