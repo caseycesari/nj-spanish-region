@@ -3,12 +3,12 @@
         {
             "repo": "regional-planning",
             "name": "regional-planning",
-            "ver": "origin/cpc/fix-lib-case"
+            "ver": "development"
         },
         {
             "repo": "regional-planning",
             "name": "second-planning",
-            "ver": "origin/cpc/fix-lib-case"
+            "ver": "development"
         }
     ]
 }
